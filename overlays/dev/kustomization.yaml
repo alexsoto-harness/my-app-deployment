@@ -3,6 +3,3 @@ kind: Kustomization
 resources:
 - ../../base
 namePrefix: alexsoto-harness-
-images:
-- name: gitopsworkshop/my-app
-  newTag: v2
